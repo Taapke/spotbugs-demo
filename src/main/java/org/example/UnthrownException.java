@@ -1,5 +1,6 @@
 package org.example;
 
+// This will be caught by spotbug as an unthrown exception
 public class UnthrownException {
     public static void unthrownExceptionMethod() {
         try {
