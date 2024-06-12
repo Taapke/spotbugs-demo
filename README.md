@@ -8,7 +8,7 @@ Prerequisites
 
 ## Installation
 Clone the repository:
-``git clone https://github.com/your-username/spotbugs-demo.git``
+``git clone https://github.com/Taapke/spotbugs-demo``
 ``cd spotbugs-demo``
 
 ``mvn compile``
